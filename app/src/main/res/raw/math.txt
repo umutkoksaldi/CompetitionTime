@@ -1,0 +1,114 @@
+What is the result of 3*5+4/2+91?
+105
+1005
+11
+108
+108
+What is the probability that a die shows 1 after rolling?
+1/4
+1/6
+1/8
+1/100
+1/6
+8 x 5 =
+0
+15
+40
+85
+40
+Y x 7 = 42, What is Y.
+3
+4
+5
+6
+6
+What is the square root of 256?
+10
+12
+14
+16
+16
+What is the cube root of 343?
+5
+6
+7
+8
+7
+What is PI approximately?
+3.142
+4.562
+4.341
+3.784
+3.142
+You can purchase 14 tickets for 21 dollars at a musuem. How much is 1 ticket?
+1.00
+1.25
+1.50
+1.75
+1.50
+What is the average of 78, 80, 82, 84, 86?
+80
+81
+82
+83
+82
+What is the cube root of 4913?
+15
+17
+19
+21
+17
+Integral is found after which sum?
+Series Sum
+Riemann Sum
+Sequences Sum
+Infinite Sum
+Riemann Sum
+What is the derivative of 3x^2
+x^3
+9x^4
+6x
+6
+6x
+How can lna - lnb be denoted?
+ln(a/b)
+lna + 1/b
+ln(a/b +b^-2)
+ln(b/a)
+ln(a/b)
+What is the derivative of tanx?
+sinx+cosx
+cosx-secx
+1+tan^2x
+5/2sec^2x
+1+tan^2x
+What digit did Arab mathematician al-Khwarizmi give to the West around 800 B/B.?
+0
+1
+2
+3
+0
+What century did mathematicians first use plus and minus signs?
+15
+17
+13
+16
+16
+How many equal sides does an icosahedron have?
+18
+19
+20
+22
+20
+What number does "giga" stand for?
+thousand
+hundred thousand
+million
+billion
+billion
+If 4 coins are tossed together then what will be the probability of getting 2 heads and 2 tails of coins?
+4/5
+34/69
+3/8
+23/47
+3/8

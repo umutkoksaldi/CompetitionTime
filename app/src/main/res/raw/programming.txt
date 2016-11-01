@@ -1,0 +1,120 @@
+﻿What is the output of int i = 1;System.out.println(i++);
+0
+1
+2
+3
+1
+Java is a/an __________. 
+programming language
+hardware
+Android application
+computer
+programming language
+What is the graphical interface called?
+UI
+GInt
+JW
+GUI
+GUI
+What is the result of 17 % 4 ?
+4
+4.25
+5
+1
+1
+What is the result of 3 / 4 ?
+0
+0.75
+1
+It gives an error
+0
+Which reference is used to invoke a parent's constructor?
+parent
+super
+override
+polymorphism
+super
+All classes are child classes of .... class.
+Lang
+Father
+Java
+Object
+Object
+How many unique items can 4 bits represent?
+4
+2
+16
+8
+16
+Which is an input device?
+Scanner
+Printer
+Speaker
+Monitor
+Scanner
+Which is not an error encountered when developing programmes?
+Compile-time error
+Run-time error
+Logical error
+CPU error
+CPU error
+Which one of the below dictate the meaning of the program statements?
+Semantics
+Syntax
+Main memory
+Java Bytecode
+Semantics
+Which package is automoatically imported by Java?
+java.lang
+java.util
+java.swing
+java.awt
+java.lang
+Which escape sequence is not valid?
+\b
+\t
+\r
+\c
+\c
+Which of these types have the smallest storage?
+short
+byte
+int
+float
+byte
+Which is not a hardware component?
+Keyboard
+Monitor
+Circuit board
+Main memory
+Main memory
+Which is not an operating system?
+Android OS
+iOS
+Windows
+Microsoft
+Microsoft
+What are the self repeating (to a base case) methods called?
+Repetitive methods
+Loop methods
+Base-case methods
+Recursive methods
+Recursive methods
+ArrayList is a part of the ...... package.
+java.lang
+java.util
+javax.swing
+java.awt
+java.util
+Which of these have methods with empty bodies, and cannot be instantiated?
+An abstract class
+An interface
+A parent class
+A child class
+An interface
+Which is a Java narrowing conversation?
+from byte to short
+from short to int
+from long to float
+from byte to char
+from byte to char
